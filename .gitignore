@@ -1,3 +1,18 @@
+render.png
+renders/*
+video
+
+!renders/emission-white.png
+!renders/emission-cyan.png
+!renders/emission-glowstone-05.png
+!renders/glow.png
+!renders/jack.png
+!renders/big-homer.png
+!renders/shadow-1.png
+!renders/shadow-2.png
+!renders/thumbnail.png
+!renders/example.png
+
 # Logs
 logs
 *.log
