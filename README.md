@@ -2,9 +2,9 @@
 
 MinePhoto is a library for Mineflayer that produces ray traced images on the CPU.
 
-[!IMPORTANT]
-While it's designed to be fast, very little thought has gone into RAM consumption. I would recommend 16GB at minimum.
-It's also very greedy with resources and by default will use all available threads.
+>[!IMPORTANT]
+>While it's designed to be fast, very little thought has gone into RAM consumption.
+>I would recommend 16GB at minimum. It's also very greedy with resources and by default will use all available threads.
 
 ### Usage
 
